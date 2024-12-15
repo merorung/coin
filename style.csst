@@ -1,0 +1,27 @@
+.crypto-logo {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.positive-change {
+    color: #28a745;
+}
+
+.negative-change {
+    color: #dc3545;
+}
+
+.coin-name {
+    display: flex;
+    align-items: center;
+}
+
+.table th {
+    background-color: #f8f9fa;
+}
+
+.table td {
+    vertical-align: middle;
+} 
